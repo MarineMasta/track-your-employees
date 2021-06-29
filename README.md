@@ -107,4 +107,4 @@ How do you deliver this? Here are some guidelines:
 
 Screen recording to show that the app works just like the required app:
 
-![Application Working](Screen Recording.gif)
+![Application Working]("Screen Recording.gif")
