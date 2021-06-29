@@ -68,8 +68,6 @@ How do you deliver this? Here are some guidelines:
 
 * You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
 
-![Employee Tracker](Assets/employee-tracker.gif)
-
 ### Hints
 
 * You may wish to include a `seed.sql` file to pre-populate your database. This will make development of individual features much easier.
@@ -105,3 +103,8 @@ How do you deliver this? Here are some guidelines:
   * Delete departments, roles, and employees
 
   * View the total utilized budget of a department -- ie the combined salaries of all employees in that department
+
+
+Screen recording to show that the app works just like the required app:
+
+![Application Working](Screen Recording.gif)
